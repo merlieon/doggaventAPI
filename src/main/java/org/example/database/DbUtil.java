@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class DbUtil {
 
     Connection con;
-    String host = "jdbc:mysql://192.168.2.71:3306/";
+    String host = "jdbc:mysql://90.231.149.9:3306/";
     String dbName = "animalsproj";
     String user = "merlieon";
     String pass = "L3p@rkour";
