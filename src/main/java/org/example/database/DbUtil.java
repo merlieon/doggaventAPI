@@ -9,8 +9,8 @@ public class DbUtil {
     Connection con;
     String host = "jdbc:mysql://90.231.149.9:3306/";
     String dbName = "animalsproj";
-    String user = "merlieon";
-    String pass = "L3p@rkour";
+    String user = "lernia";
+    String pass = "password";
 
     public Connection getConnection(){
         try {
